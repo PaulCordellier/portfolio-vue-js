@@ -1,0 +1,138 @@
+{
+    "titles": {
+        "main": "Portfolio de Paul Cordellier",
+        "home": "Accueil",
+        "experiences": "Expériences",
+        "projects": "Projets"
+    },
+    "home": {
+        "about": {
+            "title": "À propos",
+            "p1": "Bonjour,",
+            "p2": "Je suis un étudiant en informatique à la recherche d'une alternance dans le cadre de mon Master of Science Tech à l'école Epitech, pour la période du 1er octobre 2025 au 2 septembre 2027. En fonction du lieu de mon alternance, je pourrai étudier à Bordeaux, Lille, Lyon, Marseille, Montpellier, Moulins, Mulhouse, Nancy, Nantes, Nice, Paris, Rennes, Strasbourg ou Toulouse.",
+            "p3": "J'étudie actuellement le développement d'applications et la cybersécurité. La partie « Expériences » de ce site présente les technologies que je maîtrise, ainsi que mes expériences professionnelles et associatives. Dans la partie « Projets », vous trouverez des images et des descriptions des projets informatiques auxquels j'ai pu participer.",
+            "contactData": "Coordonnées :"
+        },
+        "languages": {
+            "title": "Langues",
+            "francais_p1": "Le français est ma langue native. J'ai eu un score de 622 au certificat Voltaire.",
+            "traduction": "Ce site a été traduit entièrement par moi du français à l'anglais, vous pouvez changer de langue en haut à droite de l'écran.",
+            "francais_titre": "Français",
+            "anglais_titre": "Anglais",
+            "anglais_p1": "J'ai fait l'examen du TOIEC et j'ai eu un score de 795, ce qui veut dire que j'ai le niveau B2.",
+            "anglais_p2": "Je pratique régulièrement l'anglais, et consomme majoritairement du contenu anglophoe (séries, films, tutoriels youtube, etc.). J'ai le niveau intermédiaire supérieur.",
+            "allemand_titre": "Allemand",
+            "anglais_toiec": "Accès au certificat de l'examen TOIEC",
+            "francais_voltaire": "Accès au certificat Voltaire",
+            "allemand_p1": "J'ai actuellement le niveau B2 en allemand, car j'ai eu des cours en cette langue."
+        },
+        "academicBackground": {
+            "title": "Parcours universitaire",
+            "usmbSemester1To4": {
+                "title": "Deux années de BUT Informatique à Annecy",
+                "p1": "J'ai étudié le BUT informatique à l'Université Savoie Mont Blanc à Annecy, en suivant le parcours A (réalisation d'applications - conception, développement, validation). C'est là que j'ai appris la majorité des langages de programmation et les frameworks qu'on retrouve dans la section « Expériences » de ce site.",
+                "date": "De septembre 2022 à avril 2024"
+            },
+            "albstadt_titre": "Cinquième semestre à l'étranger à Albstadt",
+            "albstadt_p1": "J'ai fait mon cinquième semestre de BUT informatique à l'étranger, avec Erasmus+. J'ai étudié en Allemagne la cybersécurité et le développement d'applications, avec des cours en allemand et en anglais.",
+            "albstadt_date": "De septembre 2024 à février 2025",
+            "usmbSemester6": {
+                "title": "Sixième semestre de BUT Informatique à Annecy",
+                "p1": "Je suis revenu à Annecy pour obtenir mon diplôme de BUT informatique. J'y ai appris des technologies comme Spring avec Java, ainsi que Unity pour le développement de jeux-vidéo.",
+                "date": "De février 2025 à juin 2025"
+            },
+            "epitech": {
+                "title": "Master of Science Tech à l'école Epitech",
+                "p1": "Je continuerai à étudier le développement et la cybersécurité à une école Epitech pour un Master.",
+                "date": "D'octobre 2025 à septembre 2027"
+            }
+        },
+        "frenchCv": "CV français",
+        "englishCv": "CV international en anglais"
+    },
+    "experiences": {
+        "programmingLanguages": {
+            "title": "Langages de programmation :",
+            "csharp_titre": "C# (.NET, ASP.NET et Entity Framework Core...)",
+            "csharp_p1": "J'ai beaucoup utilisé C# pour coder des jeux-vidéo ou des APIs. Je sais utiliser ASP.NET pour concevoir des API REST sécurisées en créant une minimal API ou des controllers. Je sais également utiliser Blazor.",
+            "java_titre": "Java",
+            "java_p1": "J'ai développé en Java en créant des applications Android et Spring.",
+            "js_titre": "JavaScript et TypeScript",
+            "js_p1": "J'ai codé en JavaScript et TypeScript des sites en front-end et des jeux-vidéo. L'affichage d'images carrousel, dans la page « Projets » de ce site, est codé en TypeScript.",
+            "rustTitle": "Rust",
+            "rustP1": "J'ai de bonnes connaissances en Rust, je l'ai utilisé pour créer un algorithme permettant de trouver les facteurs premiers de grands nombres.",
+            "pythonTitle": "Python",
+            "pythonP1": "Python est mon premier langage de programmation et au fil des années j'en ai appris beaucoup."
+        },
+        "pro_titre": "Expérience professionnelle :",
+        "pro_europapark_titre": "Aide à la cuisine à Europa-Park :",
+        "pro_europapark_p": "J'ai travaillé dans un restaurant d'Europa-Park, à Rust, en Allemagne. J'ai parlé en anglais, en français et en allemand aux clients pour répondre à leurs attentes. Ce travail m'a poussé à apprendre un maximum.",
+        "pro_europapark_date": "Août 2023 (1 mois)",
+        "assos_titre": "Expériences associatives :",
+        "assos_annecy_titre": "Bénévole au festival international d'animation d'Annecy",
+        "assos_annecy_p": "J'ai participé à la réception et l'aide des clients qui avaient payés pour accéder au MIFA (Marché International du Film d'Animation). Je leur ai parlé en anglais et en français.",
+        "assos_annecy_date": "Juin 2024 (une dizaine de jours)",
+        "assos_soutien_titre": "Participe au soutien des collégiens / élèves au primaire",
+        "assos_soutien_p": "J'ai les ai aidé à faire leurs devoirs à la MJC des carrés.",
+        "assos_soutien_date": "Chaque semaine pendant trois mois (septembre - novembre 2023)",
+        "techno_flutter_p1": "J'ai fait des applications Flutter qui communiquent avec des API et qui ont des StatefulWidgets. Je me suis habitué au langage Dart.",
+        "pro_timet_titre": "Stagiaire à Timet",
+        "pro_timet_p1": "J'ai travaillé à l'entreprise Timet, qui fait partie de la multinationale PCC et qui a pour but de créer des alliages en métaux. Là, j'ai créé des logiciels en C# pour automatiser des processus internes à l'entreprise. J'ai également créé des macros Excel pour éviter des tâches répétitives.",
+        "pro_timet_date": "Avril - Juin 2024 (3 mois)",
+        "techno_vuejs_titre": "Front-end avec Vue.js",
+        "techno_docker_titre": "Utilisation de Docker",
+        "techno_docker_p1": "J'ai créé des applications avec plusieurs containers Docker qui communiquent entre eux, comme une application avec des conteneurs pour le frontend, l'API et la base de données.",
+        "techno_vuejs_p1": "J'ai codé en groupe la partie front-end d'un site qui communique avec une API REST. J'ai utilisé les technologies Vite, et Pinia. Pour automatiser des tests de l'application j'ai utilisé Vitest et Cypress.",
+        "techno_lien_projet": "Voir le projet associé",
+        "techno_laravel_titre": "Laravel",
+        "techno_laravel_p1": "Je sais utiliser Laravel pour créer des sites avec création et connexion sécurisée à un compte, avec une encryption de mots de passe et de données personelles. ",
+        "frameworks_titre": "Frameworks :",
+        "autres_titre": "Autres technologies :",
+        "vba_p1": "J'ai créé des macros VBA qui mettent en place des tableaux croisés dynamiques, ou des données calculées automatiquement. J'ai créé ces macros en entreprise et elles sont utilisées actuellement en production.",
+        "alme": {
+            "title": "Stagiaire à Almé",
+            "p1": "J'ai développé et maintenu des programmes en Java, comme des applications Android et des API utilisant Jakarta EE.",
+            "date": "Février - Mai 2025 (3 mois)"
+        }
+    },
+    "projects": {
+        "carouselTuto": "Vous pouver cliquer sur chaque tuile pour voir des images des projets.",
+        "monogame_titre": "Développement d'un jeu en C# avec le framework MonoGame",
+        "laravel_titre": "Création d'un site Internet avec Laravel",
+        "laravel_p1": "C'est un site de vente de formation avec une inscription, connexion et déconnexion d'un utilisateur, liée à une base de données PostgreSQL. Les utilisateurs peuvent modifier leurs données. Il y a des fonctionnalités comme l'ajout des formations aux favoris, la gestion des cookies…",
+        "laravel_p2": "J'ai intégré des API comme par exemple pour rendre l'écriture et la vérification d'une adresse postale plus facile. J'ai aussi rendu le site plus interactif avec JavaScript. Ce site doit être en règle avec le RGPD et j'ai rédigé une partie conséquente de la politique de protection des données personnelles. J'ai géré un grosse partie des cookies. Nous avons codé en groupe en utilisant Git et Azure DevOps.",
+        "monogame_p1": "MonoGame est un framework cross-platform qui donne une expérience de développement moins guidée et plus difficile qu'avec les logiciel de création de jeux-vidéo plus connus comme Unity ou Godot. C'est ici que j'ai commencé à travailler en groupe pour offrir le meilleur code possible, en utilisant Git.",
+        "vba_titre": "Développement en VBA",
+        "vba_p1": "J'ai créé une interface Excel dans un jeu d'entreprise créé par mon université en équipe. J'ai fait la majorité du code VBA pour par exemple calculer les niveaux de stock optimaux, calculer le nombre de machines à acheter, le nombre de personnes à embaucher…",
+        "godot_titre": "Codage d'un jeu-vidéo en C# avec Godot",
+        "godot_p1": "Avec le moteur de jeux-vidéo Godot, j'ai fait un jeu où le joueur peut remonter dans le temps. Le déplacement des ennemis est généralement fait par le moteur, mais je n'ai pas utilisé d'extensions ou du code d'Internet. C'est un prototype et le fonctionnement du jeu n'est pas facile à comprendre, je prévoie d'ajouter des éléments graphiques pour que cela soit plus compréhensible.",
+        "godot_p2": "Vous pouvez accéder à une vidéo du prototype en cliquant ici.",
+        "wpf_titre": "Codage d'applications en WPF avec C#",
+        "wpf_p1": "Avec mon université, j'ai appris à coder en utilisant les motifs MVC et MVVM. J'ai codé des logiciels type ERP liés à une base de données PostgreSQL (parfois avec utilisation de json à la place), avec du binding pour lier le WPF et le C#.",
+        "nobespo": {
+            "title": "Nobespo : un site pour commenter des films et des séries",
+            "p1": "Ce site permet créer des watchlists (listes de séries ou de films à regarder) et de les partager à d'autres personnes, comme un réseau social. Les utilisateurs peuvent commenter des films, des séries et des watchlists après s'être connecté à leur compte.",
+            "p2": "Le frontend est développé en TypeScript avec Vue.js, et le backend en C# avec ASP.NET et Entity Framework Core. Les données sont enregistées dans une base de données PostgreSQL, et les films et les séries sont récupérées depuis l'API de The Movie Database (TMDB). L'entièreté du projet peut être lancé via Docker Compose, avec prise en charge de HTTPS. Le conteneur Vue.js fonctionne alors avec Nginx.",
+            "a1": "Lien vers le code sur GitHub"
+        },
+        "factoring": {
+            "title": "Algorithme de factorisation de nombres premiers",
+            "p1": "J'ai conçu un algorithme qui permet de trouver les facteurs premiers d'un nombre donné. Je l'ai fait dans le cadre d'un projet de mon université en Allemagne sur le chiffrement RSA. Un prototype a d'abord été réalisé en Python puis une version plus optimisée a été faite en Rust.",
+            "p2": "Si un algorithme qui permet de trouver les facteurs premiers de grands nombres était créé, alors le RSA serait obsolète, et nous avons exploré comment cela pourrait être mis en place.",
+            "p3": "Cliquez ici pour accéder au lien vers le code sur GitHub"
+        },
+        "tlsSshDowngrade": {
+            "title": "Rédaction d'un papier sur les attaques par rétrogradation",
+            "p1": "Aussi appelées downgrade attack, ces attaques consistent à forcer une communication à utiliser des protocoles de moins bonne qualité, vulnérables. Dans le cadre de mes études en Allemagne, j'ai rédigé un papier sur vulnérabilités des protocoles TLS, SSL, et des anciennes versions d'OpenSSH.",
+            "p2": "Cliquez ici pour accéder à l'article"
+        }
+    },
+    "footer": {
+        "p1": "La favicon de ce site a été créé par Vitaly Gorbachev - Flaticon",
+        "p2": "Toutes les autres icônes de ce site viennent de Google Fonts.",
+        "p3": "L'image d'en-tête a été créée par moi, tout comme le reste de ce site."
+    },
+    "misc": {
+        "selectLanguage": "Sélectionner une langue :"
+    }
+}

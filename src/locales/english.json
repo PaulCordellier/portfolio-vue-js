@@ -1,0 +1,133 @@
+{
+    "titles": {
+        "main": "Paul Cordellier's portfolio",
+        "home": "Home",
+        "experiences": "Experiences",
+        "projects": "Projects"
+    },
+    "home": {
+        "about": {
+            "title": "About",
+            "p1": "Hello,",
+            "p2": "I am a computer science student looking for a work-study placement as part of my Master of Science Tech program at Epitech, from October 1, 2025, to September 2, 2027. Depending on the location of the company, I will be able to study at one of the following campuses: Bordeaux, Lille, Lyon, Marseille, Montpellier, Moulins, Mulhouse, Nancy, Nantes, Nice, Paris, Rennes, Strasbourg, or Toulouse.",
+            "p3": "I am currently studying application development and cybersecurity. The \"Experiences\" section of this website shows the technologies I am familiar with, as well as my professional and extracurricular experience. In the \"Projects\" section, you will find images and descriptions of the projects I have participated in.",
+            "contactData": "Contact data:"
+        },
+        "languages": {
+            "title": "Languages",
+            "francais_p1": "French is my mother tongue. I scored 622 at the Voltaire certificate (a French grammar test).",
+            "traduction": "This website has been translated from French to English by me, you can switch language in the top right corner.",
+            "francais_titre": "French",
+            "anglais_titre": "English",
+            "anglais_p1": "I took the TOIEC exam and I had a score of 795, which means I have the B2 level",
+            "anglais_p2": "I regularly practise English, and mainly watch English content (series, films, youtube tutorials, etc.). I am at the upper intermediate level.",
+            "allemand_titre": "German",
+            "anglais_toiec": "Access to the TOIEC exam certificate",
+            "francais_voltaire": "Access to the Voltaire certificate",
+            "allemand_p1": "I currently have B2 level German, since I had classes in this language."
+        },
+        "academicBackground": {
+            "title": "Academic background",
+            "usmbSemester1To4": {
+                "title": "Two Years of a Bachelor's Degree in IT in Annecy",
+                "p1": "I studied for a Bachelor's Degree in Computer Science (BUT Informatique) at the Université Savoie Mont Blanc in Annecy, following Track A (Application Development – Design, Implementation, Validation). This is where I learned most of the programming languages and frameworks listed in the “Experiences” section of this website.",
+                "date": "From September 2022 to April 2024"
+            },
+            "albstadt_titre": "Semester abroad in Albstadt",
+            "albstadt_date": "From September 2024 to 8 February 2025",
+            "albstadt_p1": "I'm currently doing my fifth semester of \"BUT informatique\" (IT bachelor) abroad, with Erasmus+. I'm studying IT in Germany, with courses in German and English.",
+            "usmbSemester6": {
+                "title": "Sixth Semester of the Bachelor's Degree in Computer Science in Annecy",
+                "p1": "I returned to Annecy to complete my Bachelor's Degree in Computer Science. There, I learned technologies such as Spring with Java, as well as Unity for video game development.",
+                "date": "From February 2025 to June 2025"
+            },
+            "epitech": {
+                "title": "Master of Science Tech at Epitech School",
+                "p1": "I will continue studying development and cybersecurity at an Epitech School for a Master's degree.",
+                "date": "From October 2025 to September 2027"
+            }
+        },
+        "frenchCv": "CV in French",
+        "englishCv": "International CV in english"
+    },
+    "experiences": {
+        "programmingLanguages": {
+            "title": "Programming languages:",
+            "csharp_titre": ".NET, ASP.NET and Entity Framework Core",
+            "csharp_p1": "I've used C# a lot to code video games and APIs. I know how to use ASP.NET to design secure REST APIs by creating a minimal API or controllers. This site is created with Blazor and I know how to use it.",
+            "java_titre": "Java",
+            "java_p1": "I developed in Java by creating Android applications with Android Studio and desktop applications with Eclipse Java Workflow Tooling (JWT).",
+            "js_titre": "JavaScript and TypeScript",
+            "js_p1": "I've coded front-end sites and video games in JavaScript and TypeScript. The carousel image display on the Projects” page of this website is coded in TypeScript.",
+            "rustTitle": "Rust",
+            "rustP1": "I have a good knowledge of Rust, I used it to develop an algorithm that finds the prime factors of a given number.",
+            "pythonTitle": "Python",
+            "pythonP1": "Python was my first programming language, and over the years, I've learned a lot about it."
+        },
+        "pro_titre": "Jobs:",
+        "pro_europapark_titre": "Costumer service in Europa-Park:",
+        "pro_europapark_p": "I worked in a restaurant, in Rust, in Germany. I spoke in French, English and German to the clients to assist them. This made me learn mutch more languages.",
+        "pro_europapark_date": "August 2023 (one month)",
+        "assos_titre": "Volunteering:",
+        "assos_annecy_titre": "Volunteer at the international animation festival in Annecy",
+        "assos_annecy_p": "I was involved in controlling the clients and assisting them to access the MIFA (International Animated Film Market). I spoke to them in English and French.",
+        "assos_annecy_date": "June 2024 (ten days)",
+        "assos_soutien_titre": "Homework support",
+        "assos_soutien_p": "I helped middle school and elementary school students to do their homework in Annecy at \"MJC des carrés\".",
+        "assos_soutien_date": "Each week during three months (september - november 2023)",
+        "techno_flutter_p1": "I've made flutter applications that communicate with APIs and have StatefulWidgets. I got used to the Dart language.",
+        "pro_timet_titre": "Intern at Timet",
+        "pro_timet_p1": "I worked at the Timet company, part of the multinational PCC, which creates metal alloys. There, I created software in C# to automate the company's internal processes. I also created Excel macros to avoid repetitive tasks.",
+        "pro_timet_date": "April - June 2024 (3 months)",
+        "techno_vuejs_titre": "Vue.js front-end",
+        "techno_docker_titre": "Using Docker",
+        "techno_docker_p1": "I have built applications using multiple Docker containers that communicate with each other, such as an application with separate containers for the frontend, the API, and the database.",
+        "techno_vuejs_p1": "As part of a group, I coded the front-end part of a website that communicates with a RESTful API. I used Vite and Pinia technologies. To automate application tests, I used Vitest and Cypress.",
+        "techno_lien_projet": "See the related project",
+        "techno_laravel_titre": "Laravel",
+        "techno_laravel_p1": "I know how to use Laravel to create sites with secure account creation and connection, with password and personal data encryption. ",
+        "frameworks_titre": "Frameworks:",
+        "autres_titre": "Other technologies:",
+        "vba_p1": "I created VBA macros that set up pivot tables or automatically calculated data. I created these macros in-house and they are currently being used in production."
+    },
+    "projects": {
+        "carouselTuto": "You can click on each tile to see images of the project.",
+        "monogame_titre": "Developing a game in C# with the MonoGame framework",
+        "laravel_titre": "Creating a training website with Laravel",
+        "laravel_p1": "With my group, I created a sales website, with sign up, log in and disconnect functions, linked to a PostgreSQL database. Users can modify their data. In this website you can add courses to your favorites, manage the website's cookies…",
+        "laravel_p2": "I integrated sevral APIs, for example to make typing and verifying and adress easier. I also made the website more interactive with JavaScript. The software pattern used is MVC but I also coded MVVM projects using C# and WPF. I helped writing the documents that prove that the website is legal, especially regarding the GDPR. I coded a part of the website that handles cookies. We coded in group using Git and Azure DevOps.",
+        "monogame_p1": "MonoGame is a powerful cross-platform framework that gives a development experience less guided and harder than with mainstream game engines like Unity or Godot. This is where I started to work in group to make the best code possible, using Git.",
+        "vba_titre": "VBA development",
+        "vba_p1": "I created an excel interface, with my team, answering to the demands of the company that my university. I did the majority of the VBA code, for example, to calculate optimal stock levels, determine the number of machines to purchase, the number of employees…",
+        "godot_titre": "Coding a video-game in C# with Godot",
+        "godot_p1": "With the game engine Godot, I made a video-game in which the player can go back in time. The enemy's movement is mainly handled by the engine, but I didn't used any plug-in or code from the internet. For now it's a prototype, and the way the game works isn't clear enough, so I will add UI elements for the player to understand it more.",
+        "godot_p2": "You can access a video of the prototype by clicking here.",
+        "wpf_titre": "Coding WPF apps in C#",
+        "wpf_p1": "With my university, I leant to code WPF apps with the MVC and MVVM software design patterns. I coded small softwares that are linked to a PostgreSQL database (sometimes I used json instead). I used bidning to ling WPF and C#.",
+        "nobespo": {
+            "title": "Nobespo: a website for commenting on movies and TV shows",
+            "p1": "This website allows users to create watchlists (lists of series or movies to watch) and share them with others, similar to a social network. Users can comment on movies, series and watchlists after logging into their account.",
+            "p2": "The frontend is developed in TypeScript with Vue.js, and the backend is written in C# using ASP.NET and Entity Framework Core. Data is stored in a PostgreSQL database, and movies and series are fetched from The Movie Database (TMDB) API. The entire project can be launched via Docker Compose with HTTPS support. The Vue.js container runs with Nginx.",
+            "a1": "Link to the code on GitHub"
+        },
+        "factoring": {
+            "title": "Prime Factorization Algorithm",
+            "p1": "I designed an algorithm to find the prime factors of a given number. I developed it as part of a university project in Germany on RSA encryption. An initial prototype was implemented in Python, followed by a more optimized version in Rust.",
+            "p2": "If an algorithm capable of efficiently factoring large numbers were created, RSA would become obsolete, and we explored how such an approach could be implemented.",
+            "p3": "Click here to access the link to the code on GitHub"
+        },
+        "tlsSshDowngrade": {
+            "title": "Writing a paper about downgrade attacks",
+            "p1": " These attacks aim to force a communication to use weaker, vulnerable protocols. As part of my studies in Germany, I wrote a paper on the vulnerabilities of the TLS and SSL protocols, as well as older versions of OpenSSH.",
+            "p2": "Click here to access the paper"
+        }
+    },
+    "footer": {
+        "p1": "Website favicon created by Vitaly Gorbachev - Flaticon",
+        "p2": "All the other icons on this website come from Google Fonts.",
+        "p3": "The header image was created by me, as well as the rest of this website."
+    },
+    "misc": {
+        "selectLanguage": "Select a language:"
+    }
+}

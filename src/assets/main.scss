@@ -1,0 +1,140 @@
+@import url(info-with-logo.scss);
+
+:root {
+    --carousel-button-height: 60px;
+}
+
+html,
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    scroll-behavior: smooth;
+    background-color: rgb(10, 10, 10);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow:
+        0 0 0 0.1rem white,
+        0 0 0 0.25rem #258cfb;
+}
+
+h1:focus {
+    outline: none;
+}
+
+.validation-message {
+    color: #e50000;
+}
+
+.darker-border-checkbox.form-check-input {
+    border-color: #929292;
+}
+
+body {
+    display: flex;
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header,
+footer {
+    -webkit-flex-grow: 0;
+    flex-grow: 0;
+}
+
+main {
+    padding: 10px 18% 50px 18%;
+    flex-grow: 5;
+}
+
+@media (max-width: 900px) {
+    main {
+        padding: 10px 20px 50px 20px;
+    }
+}
+
+.date {
+    text-align: right;
+}
+
+/* Effet verre blanc : */
+#title,
+#navbar-toggler,
+header nav,
+#culture-selector,
+.glass-effect {
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+.text-button {
+    display: inline-block;
+    background-color: rgb(255, 255, 255, 0.8);
+    color: black;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 13px;
+    margin: 10px 0;
+    -moz-border-radius: 22px;
+    -webkit-border-radius: 22px;
+    border-radius: 22px;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+
+    &:hover {
+        background-color: rgb(255, 255, 255);
+    }
+}
+
+/* effet animation hover bouton cliquable */
+
+.portfolio-line > *,
+#link-to-portfolio,
+.button {
+    transition-duration: 0.2s;
+
+    &:hover {
+        -moz-transform: scale(1.05) rotateZ(1deg);
+        -ms-transform: scale(1.05) rotateZ(1deg);
+        -o-transform: scale(1.05) rotateZ(1deg);
+        -webkit-transform: scale(1.05) rotateZ(1deg);
+        transform: scale(1.05) rotateZ(1deg);
+    }
+}
+
+h1 {
+    font-size: 2.3em;
+}
+
+h1,
+p {
+    padding: 5px 0;
+}
+
+h2 {
+    padding: 25px 0 10px 0;
+}
+
+h3 {
+    padding: 15px 0 5px 0;
+}
