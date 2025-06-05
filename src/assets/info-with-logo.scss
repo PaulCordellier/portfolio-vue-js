@@ -1,4 +1,10 @@
-$taille-max-logo-info: 170px;
+:root {
+    --info-logo-max-width: 170px;
+
+    @media (max-width: 500px) {
+        --info-logo-max-width: 70px;
+    }
+}
 
 .info-with-logo {
     display: flex;
@@ -12,10 +18,14 @@ $taille-max-logo-info: 170px;
     img {
         object-fit: scale-down;
         border-radius: 15px;
-        max-width: 170px;
+        max-width: var(--info-logo-max-width);
         max-height: 80px;
         min-width: 80px;
         flex-shrink: 0;
+
+        @media (max-width: 500px) {
+            min-width: unset;
+        }
     }
 
     > div {

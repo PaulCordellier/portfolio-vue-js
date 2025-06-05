@@ -110,8 +110,6 @@
 </template>
 
 <style lang="scss">
-@use '@/assets/info-with-logo.scss';
-
 #about-me {
     display: flex;
     align-items: center;
@@ -123,7 +121,7 @@
     }
 
     .text-button {
-        margin: 0 7px;
+        margin: 5px 7px;
     }
 
     @media (max-width: 800px) {
@@ -167,7 +165,7 @@ $hs-albsig-logo-padding-size: 8px;
 #hs-albsig-logo {
     background-color: white;
     padding: $hs-albsig-logo-padding-size;
-    max-width: info-with-logo.$taille-max-logo-info - $hs-albsig-logo-padding-size * 2;
+    max-width: calc(var(--info-logo-max-width) - $hs-albsig-logo-padding-size * 2);
 }
 
 $epitech-logo-horizontal-padding-size: 10px;
@@ -175,6 +173,6 @@ $epitech-logo-horizontal-padding-size: 10px;
 #epitech-logo {
     background-color: white;
     padding: 12px $epitech-logo-horizontal-padding-size;
-    max-width: info-with-logo.$taille-max-logo-info - $epitech-logo-horizontal-padding-size * 2;
+    max-width: calc(var(--info-logo-max-width) - $epitech-logo-horizontal-padding-size * 2);
 }
 </style>
