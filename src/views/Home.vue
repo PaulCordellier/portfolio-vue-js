@@ -89,7 +89,7 @@
             <p>{{ $t('home.languages.anglais_p1') }}</p>
             <p>{{ $t('home.languages.anglais_p2') }}</p>
             <a
-                href="resultat-examen-TOIEC.pdf"
+                href="TOIEC-exam-result.pdf"
                 download="TOIEC results Paul CORDELLIER"
                 class="text-button"
             >
