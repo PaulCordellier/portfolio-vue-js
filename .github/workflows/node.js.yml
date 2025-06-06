@@ -40,6 +40,9 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
 
+    - name: Avoid 404 errors with vue-router
+    - run: cp ${{ github.action_path }}/dist/index.html ${{ github.action_path }}/dist/404.html
+    
     - name: Setup Pages
       uses: actions/configure-pages@v5
     - name: Upload artifact
