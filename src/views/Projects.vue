@@ -67,6 +67,12 @@ function setupCarouselDisplay(
             </button>
         </div>
         <div class="portfolio-line">
+            <a id="factoring-project" href="https://github.com/PaulCordellier/quadratic_sieve">
+                <h2>{{ $t('projects.factoring.title') }}</h2>
+                <p>{{ $t('projects.factoring.p1') }}</p>
+                <p>{{ $t('projects.factoring.p2') }}</p>
+                <p class="info-text">{{ $t('projects.factoring.p3') }}</p>
+            </a>
             <a
                 href="https://paulcordellier.github.io/TLS-and-SSH-Downgrade-Attacks/paper.pdf"
                 id="tls-ssh-project"
@@ -74,12 +80,6 @@ function setupCarouselDisplay(
                 <h2>{{ $t('projects.tlsSshDowngrade.title') }}</h2>
                 <p>{{ $t('projects.tlsSshDowngrade.p1') }}</p>
                 <p class="info-text">{{ $t('projects.tlsSshDowngrade.p2') }}</p>
-            </a>
-            <a id="factoring-project" href="https://github.com/PaulCordellier/quadratic_sieve">
-                <h2>{{ $t('projects.factoring.title') }}</h2>
-                <p>{{ $t('projects.factoring.p1') }}</p>
-                <p>{{ $t('projects.factoring.p2') }}</p>
-                <p class="info-text">{{ $t('projects.factoring.p3') }}</p>
             </a>
             <button
                 id="vba-project"
