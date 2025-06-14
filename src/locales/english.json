@@ -82,7 +82,7 @@
         "techno_vuejs_titre": "Vue.js front-end",
         "techno_docker_titre": "Using Docker",
         "techno_docker_p1": "I have built applications using multiple Docker containers that communicate with each other, such as an application with separate containers for the frontend, the API, and the database.",
-        "techno_vuejs_p1": "As part of a group, I coded the front-end part of a website that communicates with a RESTful API. I used Vite and Pinia technologies. To automate application tests, I used Vitest and Cypress.",
+        "techno_vuejs_p1": "This site uses Vue.js, and the image carousel display code in the \"Experiences\" section was created by me. As part of a group, I coded the front-end part of a website that communicates with a RESTful API. I used Vite and Pinia technologies. To automate application tests, I used Vitest and Cypress.",
         "techno_lien_projet": "See the related project",
         "techno_laravel_titre": "Laravel",
         "techno_laravel_p1": "I know how to use Laravel to create sites with secure account creation and connection, with password and personal data encryption. ",
